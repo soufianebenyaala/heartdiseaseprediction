@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Heart Check</string>
+
+    <string-array name="sex_array">
+        <item>Man</item>
+        <item>Women</item>
+    </string-array>
+
+    <string-array name="Chest_pain_type">
+        <item>typical angina</item>
+        <item>atypical angina</item>
+        <item>non -- anginal pain</item>
+        <item>asymptotic</item>
+    </string-array>
+
+    <string-array name="Resting_ECG">
+        <item>normal</item>
+        <item>having ST-T wave abnormality</item>
+        <item>left ventricular hyperthrophy</item>
+    </string-array>
+
+    <string-array name="Exercise_induced_angina">
+        <item>yes</item>
+        <item>no</item>
+    </string-array>
+
+    <string-array name="Peak_exercise_ST_segment">
+        <item>upsloping</item>
+        <item>flat</item>
+        <item>downsloping</item>
+    </string-array>
+
+    <string-array name="Thal">
+        <item>normal</item>
+        <item>fixed defect</item>
+        <item>reversible defect</item>
+    </string-array>
+
+</resources>
