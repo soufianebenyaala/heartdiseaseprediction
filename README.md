@@ -1,9 +1,11 @@
 # heartdiseaseprediction
 heart disease prediction using machine learning
 
-![209509231_786619425333539_2292623262075306901_n](https://user-images.githubusercontent.com/59481648/124395592-dcd8d800-dcfc-11eb-86a2-5df47a3c5407.jpg)
+![Screenshot_2021-07-04-19-15-01-301_com example myapplication](https://user-images.githubusercontent.com/59481648/124395685-5a044d00-dcfd-11eb-8f42-caa88ff49406.jpg)
 
-![207813129_1301904110227509_1991942400383792221_n](https://user-images.githubusercontent.com/59481648/124395588-dc404180-dcfc-11eb-8718-b771351c54ed.jpg)
+
+![Screenshot_2021-07-04-19-15-23-220_com example myapplication](https://user-images.githubusercontent.com/59481648/124395689-5bce1080-dcfd-11eb-8d83-345d2fac033f.jpg)
+
 
 
 
